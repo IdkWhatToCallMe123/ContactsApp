@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ym1IukGvdXs=",
+  "success": true,
+  "projectFilePath": "/Users/kaihan/ContactsApp/ContactsApp/ContactsApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kaihan/.nuget/packages/spectre.console/0.54.0/spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}
